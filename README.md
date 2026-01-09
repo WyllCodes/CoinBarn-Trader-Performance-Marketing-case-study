@@ -13,7 +13,7 @@ Below are sample Facebook ad creatives designed for a Web3 trading product (Coin
 These creatives follow Meta crypto advertising guidelines and avoid exaggerated financial claims.
 
 ### Ad Creative 1 – Control & Discipline Angle
-![CoinBarn Ad 1](./creatives/coinbarn-ad-1.png)
+![CoinBarn Ad 1](Creatives/control.png)
 
 Messaging Focus
 - Trading discipline
@@ -25,7 +25,7 @@ CTA: Sign Up
 ---
 
 ### Ad Creative 2 – Data Over Emotion Angle
-![CoinBarn Ad 2](./creatives/coinbarn-ad-2.png)
+![CoinBarn Ad 2](Creatives/data.png)
 
 Messaging Focus
 - Trader pain points
@@ -37,7 +37,7 @@ CTA: Join Waitlist
 ---
 
 ### Ad Creative 3 – Founder / Startup Narrative
-![CoinBarn Ad 3](./creatives/coinbarn-ad-3.png)
+![CoinBarn Ad 3](Creatives/future.png)
 
 Messaging Focus
 - Early access positioning
