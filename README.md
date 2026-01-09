@@ -4,7 +4,7 @@
 
 ## Overview
 This repository contains a speculative performance marketing campaign created to demonstrate my approach to running compliant, conversion-focused Facebook ad campaigns for Web3 startups.
-
+> Note: This is a mock project for portfolio purposes only.
 ---
 
 ## 📢 Facebook Ad Creatives (Mock)
